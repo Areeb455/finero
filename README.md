@@ -1,3 +1,3 @@
 # finero
 
-A new Flutter project.
+A crypto tracker app.
